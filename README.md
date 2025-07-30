@@ -53,3 +53,4 @@ Creating adaptable layouts without relying on frameworks
 Enhancing user experience across all screen sizes
 
 Keeping code semantic, clean, and scalable
+## Update made on feature/readme-update branch
